@@ -1,0 +1,13 @@
+.slider{
+    height: 40px;
+    border: 2px solid #F2B143;
+    border-radius: 20px;
+}
+
+.thumb{
+    background-color: #F2B143;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
