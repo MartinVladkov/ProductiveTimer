@@ -10,9 +10,11 @@ This is a simple Pomodoro-style timer for productivity, built with JavaScript
 
 ## Screenshots
 Settings
+
 ![Settings](images/Settings1.PNG)
 ![Settings](images/Settings2.PNG)
 
 Timer
+
 ![Timer](images/Timer1.PNG)
 ![Timer](images/Timer2.PNG)
