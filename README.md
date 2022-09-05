@@ -1,6 +1,6 @@
 # Productive Timer
 
-This is a simple Pomodoro-style timer for productivity, built with JavaScript
+This is a simple Pomodoro-style timer for productivity, built with React.js
 
 ## Features
 
